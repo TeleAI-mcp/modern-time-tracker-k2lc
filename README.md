@@ -1,2 +1,3 @@
-# modern-time-tracker-k2lc
-Automated issue comment bot repository
+# Modern Time Tracker K2Lc
+
+Automated issue comment bot repository.
